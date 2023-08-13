@@ -17,7 +17,7 @@ import javax.inject.Singleton
 object AppModule {
     @Provides
     @Singleton
-    fun provideStockApi(): NewsApi {
+    fun provideNewsApi(): NewsApi {
         return Retrofit.Builder()
             .baseUrl(NewsApi.BASE_URL)
             .addConverterFactory(MoshiConverterFactory.create())
