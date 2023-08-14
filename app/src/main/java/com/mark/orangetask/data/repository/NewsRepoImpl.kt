@@ -18,16 +18,14 @@ class NewsRepoImpl @Inject constructor(
 
 ) : NewsRepository {
 
-    override fun getNewsListings(
-        fetchFromRemote: Boolean,
-        query: String
-    ): Flow<Resource<NewsListings>> {
 
+
+    override fun getNewsListings(): Flow<Resource<NewsListings>> {
         return flow<Resource<NewsListings>> {
 
             emit(Resource.Loading(true))
 
-           try {
+            try {
                 val response = newsApi.getNewsListings()
                 emit(Resource.Success(response))
 
@@ -44,6 +42,5 @@ class NewsRepoImpl @Inject constructor(
 
 
 
-        }
-    }
+        }    }
 }
