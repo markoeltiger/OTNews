@@ -110,12 +110,8 @@ fun CompanyListingsScreen(
                     modifier = Modifier.fillMaxSize()
                 ) {
                     items(state.news.size) { i ->
-                        val article = state.news[i]
-                        NewsItem(
 
-                         article = article
 
-                         )
                         if (i < state.news.size) {
                             Divider(
                                 modifier = Modifier.padding(

@@ -30,7 +30,6 @@ class NewsListingsViewModel @Inject constructor(
                 when(result){
                     is Resource.Success->{
                        state= state.copy(news = result.data!!.articles)
-
                     }
                     else -> {}
                 }

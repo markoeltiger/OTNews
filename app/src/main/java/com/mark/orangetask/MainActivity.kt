@@ -134,7 +134,8 @@ fun CompanyListingsScreen(
                         val article = state.news[i]
                         NewsItem(
 
-                            article = article
+                            article = article,
+                            id = 3
 
                         )
                         if (i < state.news.size) {

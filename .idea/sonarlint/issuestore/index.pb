@@ -1,6 +1,4 @@
 
-p
-@app/src/main/java/com/mark/orangetask/data/local/NewsDatabase.kt,4/e/4e4a64eb9a97c5510e1a5a305d62196a2d71193d
 e
 5app/src/main/java/com/mark/orangetask/di/AppModule.kt,f/c/fc33182aeb82d5457021ec5b0ebbd41dd08b3e42
 l
@@ -13,5 +11,35 @@ y
 Iapp/src/main/java/com/mark/orangetask/domain/repository/NewsRepository.kt,8/f/8fcfb7a3a49021d6f4bee99bf17869e5096db297
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-l
-<app/src/main/java/com/mark/orangetask/domain/model/Source.kt,0/2/023ae770d784196a22d0ca9c7ae41a3ca5e7b67b
+_
+/app/src/main/java/com/mark/OrangeApplication.kt,b/2/b27ac6d23dccdbcca42c6b4b8ad9de57066868e7
+w
+G.idea/sonarlint/issuestore/f/c/fc33182aeb82d5457021ec5b0ebbd41dd08b3e42,c/d/cd27336108a7b5d15ec8e83af0790071f318ebe3
+w
+G.idea/sonarlint/issuestore/6/2/628a1bab9b976d440c37a9b7e9d11d66c3213b5d,2/4/242d93a89e1984cee41122abec6eaef42c1ff2a2
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+
+Q.idea/sonarlint/securityhotspotstore/f/c/fc33182aeb82d5457021ec5b0ebbd41dd08b3e42,a/d/addd6fed87c947c891cf76a4c0f7fc97efe4b5b1
+
+Q.idea/sonarlint/securityhotspotstore/1/a/1a2e2c2f7db04a2e302a6ae7790e5c0a0ffe251d,f/7/f7b40059cd68ca3927f560e44afcf7821a0e2850
+w
+G.idea/sonarlint/issuestore/8/4/8404e3211fc733ccda5970b10845896b578c6c50,6/3/63da2f4fe58f1b6ff351ca4f88d3f16a3a865672
+
+Q.idea/sonarlint/securityhotspotstore/8/4/8404e3211fc733ccda5970b10845896b578c6c50,4/b/4bab68e22b678119afc8c545d6931afd2101b76b
+w
+G.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35,b/f/bfb9453d49af9bc40f5f7a5f034be3c7ef8fa6bf
+
+Q.idea/sonarlint/securityhotspotstore/6/2/628a1bab9b976d440c37a9b7e9d11d66c3213b5d,8/7/8704ab1dcb439cf061d7d452b8789f5562ce2994
+\
+,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
+
+Q.idea/sonarlint/securityhotspotstore/8/f/8fcfb7a3a49021d6f4bee99bf17869e5096db297,3/3/33c2271568682dca0354cc483099c66c22de0fde
+
+Q.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35,2/5/25f6469773b9f3ebb994178c1114a60412389f58
+u
+Eapp/src/main/java/com/mark/orangetask/data/repository/NewsRepoImpl.kt,5/0/50eb53deb186766a7b634260f5573fa6bf14624b
+z
+Japp/src/main/java/com/mark/orangetask/ui/news_listings/NewListingsState.kt,2/b/2bef477018e2d58d03ee37f5565d0e7d24601ac1
