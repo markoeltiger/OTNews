@@ -53,7 +53,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ## Built With
 
-A cool modern weather application build with\
+A OTNews modern news application build with\
 * [Compose UI ](Compose UI )
 * [coroutine](coroutine)
 * [retrofit](retrofit)
@@ -79,7 +79,7 @@ Java SDK
 2. Clone the repo
 
 ```sh
-git clone https://github.com/markoeltiger/coolweatherapp.git
+git clone https://github.com/markoeltiger/OTNews.git
 ```
 
 
